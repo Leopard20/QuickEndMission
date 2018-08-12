@@ -5,7 +5,7 @@ class CfgPatches
 		units[] = {};
 		weapons[] = {};
 		requiredVersion = 0.1;
-		requiredAddons[] = {"CBA_Extended_EventHandlers"};
+		requiredAddons[] = {};
 		name = "Quick Mission End";
 		author = "Leopard20";            
 	};
